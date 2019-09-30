@@ -67,6 +67,7 @@ p {
 .text-coningsoon {
     padding: 3px;
     font-size: 4rem;
+    text-align: center;
     text-transform: uppercase;
     
     color: white;
@@ -76,6 +77,7 @@ p {
 .text-coningsoon:hover {
     padding: 3px;
     font-size: 4rem;
+    text-align: center;
     text-transform: uppercase;
     
     color: skyblue;
