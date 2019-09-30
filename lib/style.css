@@ -1,4 +1,3 @@
-
 * {
     margin: 0;
     padding: 0;  
@@ -82,7 +81,7 @@ p {
     text-transform: uppercase;
     
     color: skyblue;
-    background-color: white;
+    background-color: transparent;
 }
 
 .text-title-name {
